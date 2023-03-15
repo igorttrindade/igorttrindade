@@ -1,6 +1,6 @@
   # **Salve! eu sou o Igor Trindade**
 
-- 🌱 Estudando Javascript e Java
+- 🌱 Estudando Javascript e ReactJS
 -  <img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="10" width="15">  São Paulo - SA
 
 ##
