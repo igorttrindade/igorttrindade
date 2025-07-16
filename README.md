@@ -1,7 +1,7 @@
   # **Olá, eu sou o Igor Trindade**
 
-- 💻 Formado em Análise e Desenvolvimento de Sistemas
-- 💻 Cursando Ciência de Dados e Inteligência Artificial
+- 💻 Cursando Ciência de Dados e Inteligência Artificial na CUFSA
+- 💻 Formado em Análise e Desenvolvimento de Sistemas pela CUFSA
 -  <img src="https://github.com/pedrorivald/bandeira-brasil/blob/master/estrelas.PNG" height="10" width="15">    Santo André - SP
 
 ##
